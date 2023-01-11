@@ -1,0 +1,15 @@
+D:\C#\after\21.12rew\bin\Debug\net7.0\21.12rew.exe
+D:\C#\after\21.12rew\bin\Debug\net7.0\21.12rew.deps.json
+D:\C#\after\21.12rew\bin\Debug\net7.0\21.12rew.runtimeconfig.json
+D:\C#\after\21.12rew\bin\Debug\net7.0\21.12rew.dll
+D:\C#\after\21.12rew\bin\Debug\net7.0\21.12rew.pdb
+D:\C#\after\21.12rew\obj\Debug\net7.0\21.12rew.csproj.AssemblyReference.cache
+D:\C#\after\21.12rew\obj\Debug\net7.0\21.12rew.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\after\21.12rew\obj\Debug\net7.0\21.12rew.AssemblyInfoInputs.cache
+D:\C#\after\21.12rew\obj\Debug\net7.0\21.12rew.AssemblyInfo.cs
+D:\C#\after\21.12rew\obj\Debug\net7.0\21.12rew.csproj.CoreCompileInputs.cache
+D:\C#\after\21.12rew\obj\Debug\net7.0\21.12rew.dll
+D:\C#\after\21.12rew\obj\Debug\net7.0\refint\21.12rew.dll
+D:\C#\after\21.12rew\obj\Debug\net7.0\21.12rew.pdb
+D:\C#\after\21.12rew\obj\Debug\net7.0\21.12rew.genruntimeconfig.cache
+D:\C#\after\21.12rew\obj\Debug\net7.0\ref\21.12rew.dll
